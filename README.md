@@ -7,17 +7,17 @@
 [![Coverage status](https://codecov.io/gh/jazzband/django-invitations/branch/master/graph/badge.svg?token=xxufPt4r3I)](https://codecov.io/gh/jazzband/django-invitations)
 [![Documentation Status](https://readthedocs.org/projects/django-invitations/badge/?version=latest)](https://django-invitations.readthedocs.io/en/latest/?badge=latest)
 
-## About
+## About ✨
 
 Generic invitations solution with adaptable backend and support for django-allauth.
 
-## Contributing
+## Contributing ✨
 
 As we are members of a [JazzBand project](https://jazzband.co/projects), `django-invitations` contributors should adhere to the [Contributor Code of Conduct](https://jazzband.co/about/conduct).
 
 Get started contributing by reading [CONTRIBUTING.md](CONTRIBUTING.md).
 
-### Documentation
+### Documentation ✨
 
 Documentation can be found at https://django-invitations.readthedocs.io/
 
